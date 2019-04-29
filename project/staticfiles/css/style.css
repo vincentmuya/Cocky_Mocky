@@ -4,7 +4,10 @@ body {
   color: #4d4d4d;
   font-weight: 300;
   font-size: 1rem; }
-
+#logo{
+  width: 100px;
+  height: 100px;
+}
 ::-moz-selection {
   background: #000;
   color: #fff; }
