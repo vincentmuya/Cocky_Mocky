@@ -107,8 +107,7 @@ p{
   background-color: #f7f5ec;
 }
 
-.owl-carousel .owl-item img {
-    display: block;
-    width: 100%;
-    height: 300px;
+#slide{
+  height: 300px;
+  width: 300px;
 }
